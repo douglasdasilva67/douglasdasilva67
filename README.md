@@ -1,4 +1,5 @@
-# Hi 👋, I'm Douglas da Silva
+<img width="680" height="240" alt="standard" src="https://github.com/user-attachments/assets/8af60880-fc42-4a13-816c-67d5c28244d8" />
+
 
 🚀 **IT technical course student**  
 🇧🇷 Brazil
