@@ -41,18 +41,4 @@
 
 ---
 ## GitHub Status
-<p align="center">
-  <img src="https://github-readme-stats-two-mocha.vercel.app/api?username=fasxzt&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fasxzt&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasdasilva67&theme=react-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10&hide_title=true&days=60" />
-</p>
-
-<blockquote>
-<p align="center">
-  Code is never finished. It only becomes slightly less terrible over time.
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasdasilva67-bit&theme=tokyo-night)
