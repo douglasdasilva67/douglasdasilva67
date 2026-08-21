@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fasxzt&theme=react-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10&hide_title=true&days=60" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasdasilva67&theme=react-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10&hide_title=true&days=60" />
 </p>
 
 <blockquote>
