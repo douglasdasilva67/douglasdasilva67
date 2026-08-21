@@ -1,5 +1,7 @@
 <img width="1000" height="230" alt="397bc20ad2da1a5920c1347052aea03d" src="https://github.com/user-attachments/assets/d33a8d62-cfa1-4755-bf50-a29f33b31e2b" />
+</div>
 
+<div align="center">
 
 
 ## **Technician Student | Developer in Progress**  
@@ -12,9 +14,22 @@
 
 ---
 
-## Where to find me
+## Learning content
 
-<p align="left">
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,git,github,vscode" />
+
+</div>
+
+<div align="center">
+
+---
+
+## Contact
+
+<p align="center">
   <a href="https://github.com/douglasdasilva67">
     <img src="https://img.shields.io/badge/GitHub-douglasdasilva67-181717?style=for-the-badge&logo=github" />
   </a>
@@ -22,13 +37,22 @@
     <img src="https://img.shields.io/badge/Instagram-@dgwk67-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
----
 
-## Learning content
-
-![ Learning Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![ Learning C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![ Learning MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![ Learning Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
+## GitHub Status
+<p align="center">
+  <img src="https://github-readme-stats-two-mocha.vercel.app/api?username=fasxzt&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fasxzt&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fasxzt&theme=react-dark&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&radius=10&hide_title=true&days=60" />
+</p>
+
+<blockquote>
+<p align="center">
+  Code is never finished. It only becomes slightly less terrible over time.
