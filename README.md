@@ -1,4 +1,5 @@
-<img width="680" height="240" alt="standard" src="https://github.com/user-attachments/assets/8af60880-fc42-4a13-816c-67d5c28244d8" />
+<img width="1000" height="230" alt="397bc20ad2da1a5920c1347052aea03d" src="https://github.com/user-attachments/assets/d33a8d62-cfa1-4755-bf50-a29f33b31e2b" />
+
 
 
 🚀 **IT technical course student**  
