@@ -2,14 +2,17 @@
 
 
 
-🚀 **IT technical course student**  
-🇧🇷 Brazil
+## **Technician Student | Developer in Progress**  
 
-**I am currently studying at CEDUP Renato Ramos da Silva, where I am learning programming languages, their principles, and the fundamentals of programming.**
+**Hello! My name is Douglas, and I am 18 years old.**
+
+**I am currently finishing high school while completing a Technical Course in Information Technology at CEDUP Renato Ramos da Silva. I am passionate about the field of Information Technology and constantly seek to learn, develop new skills, and put my knowledge into practice through projects.**
+
+**Next year, I plan to start my degree in Information Systems. My goal is to continue growing professionally, explore different areas of IT, and gain valuable experience while building a solid career in technology.**
 
 ---
 
-## 🌐 Where to find me
+## Where to find me
 
 <p align="left">
   <a href="https://github.com/douglasdasilva67">
@@ -21,7 +24,7 @@
 </p>
 ---
 
-## 🛠️ Learning content
+## Learning content
 
 ![ Learning Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![ Learning C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
@@ -29,12 +32,3 @@
 ![ Learning Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
-
-## 🚀 Philosophy
-
-> "Simple things should be simple, complex things should be possible."_
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
