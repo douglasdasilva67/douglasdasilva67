@@ -19,13 +19,6 @@
     <img src="https://img.shields.io/badge/Instagram-@dgwk67-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🧠 What I do
-
--   🤖 I program
-
 ---
 
 ## 🛠️ Learning content
@@ -34,15 +27,6 @@
 ![ Learning C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![ Learning MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![ Learning Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
